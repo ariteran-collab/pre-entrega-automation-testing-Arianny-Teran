@@ -83,7 +83,7 @@ El producto se agrega correctamente al carrito.
 ## Instalación
 Clonar el repositorio:
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/ariteran-collab/pre-entrega-automation-testing-Arianny-Teran.git
 ```
 Crear entorno virtual:
 ```bash
