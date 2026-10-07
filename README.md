@@ -14,7 +14,7 @@ El objetivo es validar funcionalidades críticas del sitio mediante pruebas auto
 ---
 ## Estructura del proyecto
 ```text
-pre-entrega-automation-testing-arianne-teran/
+pre-entrega-automation-testing-arianny-teran/
 ├── tests/
 │   └── test_saucedemo.py
 │
@@ -81,6 +81,7 @@ Validar el agregado de productos al carrito.
 El producto se agrega correctamente al carrito.
 ---
 ## Instalación
+
 Clonar el repositorio:
 ```bash
 git clone https://github.com/ariteran-collab/pre-entrega-automation-testing-Arianny-Teran.git
